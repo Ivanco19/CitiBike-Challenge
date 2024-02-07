@@ -12,11 +12,11 @@ to see the top 5 stations for starting a trip and the top 5 stations for ending 
 - Bergen Ave & Sip Ave
 - Newport Path
 
-Finally, we show the number of trips by weekday. Unexpectedly, the weekend days are not the most days with trips but Wednesday and then Thursday.
+  Finally, we show the number of trips by weekday. Unexpectedly, the weekend days are not the most days with trips but Wednesday and then Thursday.
   
 2) For our second dashboard we focus on our customers type. In the results, both types of customers use more often classic bikes than electric bikes. One similarity is that both casual customers and members use bike trips mostly at 5 p.m and then at 8 a.m On the other hand, an average trip duration for casual customers is much longer than the members trips. And December 25th was a very special day, where the average trip was around 40min for casual customers.
 
-Finally, we decided to visualize the top 3 lcoations for starting a trip, Hoboken Terminal River St & Hudson PI is one of them for both, but casual customers usually start a trip at the 11 St & Washington St. probably would be a strategically location to get more people to become a member customer.
+  Finally, we decided to visualize the top 3 lcoations for starting a trip, Hoboken Terminal River St & Hudson PI is one of them for both, but casual customers usually start a trip at the 11 St & Washington St. probably would be a strategically location to get more people to become a member customer.
 
 -----------------------------------------------------
 Ivan Corona
